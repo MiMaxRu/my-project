@@ -11,6 +11,7 @@ function App() {
 
 <Header />
 <Navbar />
+<Navbar />
 <Profile />
 <Profile />
     </div>
