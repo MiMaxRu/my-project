@@ -1,0 +1,15 @@
+.content{
+  grid-area: c;
+  background-color: aqua;
+  }
+  .content img{
+    width: 700px;
+  }
+
+.item{
+  color:blue;
+}
+
+.item.active{
+  color: brown;
+}
