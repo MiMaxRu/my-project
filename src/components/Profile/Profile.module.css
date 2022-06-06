@@ -5,11 +5,3 @@
   .content img{
     width: 700px;
   }
-
-.item{
-  color:blue;
-}
-
-.item.active{
-  color: brown;
-}
